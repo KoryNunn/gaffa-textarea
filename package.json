@@ -1,0 +1,22 @@
+{
+  "name": "gaffa-textarea",
+  "author": "Kory Nunn <knunn187@gmail.com>",
+  "version": "1.0.0",
+  "main": "textarea.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KoryNunn/gaffa-textarea.git"
+  },
+  "bugs": {
+    "url": "https://github.com/KoryNunn/gaffa-textarea/issues"
+  },
+  "keywords": [
+    "gaffa",
+    "textarea",
+    "view"
+  ],
+  "peerDependencies": {
+    "gaffa": "^1.0.0"
+  },
+  "license": "MIT"
+}
