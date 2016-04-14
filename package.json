@@ -5,7 +5,7 @@
   "main": "textarea.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/KoryNunn/gaffa-textarea.git"
+    "url": "git+https://github.com/KoryNunn/gaffa-textarea.git"
   },
   "bugs": {
     "url": "https://github.com/KoryNunn/gaffa-textarea/issues"
@@ -18,5 +18,10 @@
   "peerDependencies": {
     "gaffa": "^1.0.0"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "homepage": "https://github.com/KoryNunn/gaffa-textarea#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "description": ""
 }
